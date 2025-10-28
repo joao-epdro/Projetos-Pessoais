@@ -1,0 +1,61 @@
+.corpo{
+    width: 400px;
+    height: 500px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 30px;
+    font-family: "Oswald", sans-serif;
+    margin: 100px auto 0 auto;
+}
+.corpo h1{
+    width:250px;
+    height: 35px;
+    font-size: 27px;
+    color: rgb(95, 99, 100);
+    border-bottom: 5px solid #f18824;
+    padding: 7px;
+}
+body{
+    background-image: url(imagens/gradiente-fundo.jpg);
+}
+.corpo form{
+    width: 100px;
+    color: #746d64;
+    font-weight: bold;
+}
+.corpo input[type="text"]{
+    width: 370px;
+    height: 30px;
+    border-radius:10px;
+    background-color: #f1f1f1;
+    border: none;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.corpo input[type="password"]{
+    width: 370px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #f1f1f1;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.corpo input[type="checkbox"]{
+    margin-right: 5px;
+}
+.corpo input[type="submit"]{
+    width: 150px;
+    height: 35px;
+    border-radius: 25px;
+    background: url(imagens/fundo.png);
+    color: #ffffff;
+    font-size: 13px;
+    margin-top: 50px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+.esquecer{
+    font-size: 13px;
+    margin-top: 25px;
+}
