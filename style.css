@@ -16,7 +16,7 @@
     padding: 7px;
 }
 body{
-    background-image: url(imagens/gradiente-fundo.jpg);
+    background-image: url(gradiente-fundo.jpg);
 }
 .corpo form{
     width: 100px;
@@ -48,7 +48,7 @@ body{
     width: 150px;
     height: 35px;
     border-radius: 25px;
-    background: url(imagens/fundo.png);
+    background: url(fundo.png);
     color: #ffffff;
     font-size: 13px;
     margin-top: 50px;
@@ -58,4 +58,5 @@ body{
 .esquecer{
     font-size: 13px;
     margin-top: 25px;
+
 }
